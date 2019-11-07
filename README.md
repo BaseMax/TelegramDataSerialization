@@ -1,2 +1,3 @@
-# TelegramDataSerialization
-A tiny library to Serialization and Deserialization of the JS objects for Telegram.
+# Telegram Data Serialization
+
+A tiny library to Serialization and Deserialization of the **JavaScript objects** for Telegram.
